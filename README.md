@@ -1,5 +1,9 @@
 # cnn-breast-cancer-detection
 
+# Universidade de Vigo
+# Pietro Ruzzante
+
+# Español 
 En este trabajo, se ha desarrollado un modelo de Machine Learning para la detección de cáncer de mama a partir de imágenes de mamografías. Se ha utilizado el conjunto de datos de Kaggle RSNA Breast Cancer Detection, que contiene imágenes clasificadas en función de la presencia de tejido canceroso.
 
 Inicialmente, se entrenó un modelo de red neuronal convolucional (CNN) utilizando un conjunto de datos balanceado. Se implementó una arquitectura con filtros pequeños para captar detalles relevantes y se realizaron experimentos eliminando capas convolucionales y densas innecesarias para mejorar el rendimiento. El modelo alcanzó una precisión del 70%, lo que indicaba margen de mejora.
@@ -10,7 +14,7 @@ En la gráfica de entrenamiento se observa que la precisión aumentó progresiva
 
 
 
-
+# English 
 In this project, a Machine Learning model was developed for breast cancer detection using mammography images. The dataset used was Kaggle's RSNA Breast Cancer Detection, which contains images classified based on the presence of cancerous tissue.
 
 Initially, a convolutional neural network (CNN) was trained using a balanced dataset. The model was designed with small filters to capture fine details, and experiments were conducted to optimize performance by removing unnecessary convolutional and dense layers. The model initially achieved 70% accuracy, suggesting room for improvement.
